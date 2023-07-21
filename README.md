@@ -14,9 +14,11 @@
   ## Here are some of my statistics
 
 <div align="center">
+
+  ![Streams](https://github-readme-streak-stats.herokuapp.com/?user=petyastoleru&theme=dracula)
   
   ![petyastoleru's github stats](https://github-readme-stats.vercel.app/api?username=petyastoleru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petyastoleru&theme=dracula" alt="mystreak"/>
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petyastoleru&theme=dracula&layout=compact)
 </div>
 
