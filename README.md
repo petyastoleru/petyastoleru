@@ -8,7 +8,7 @@
    [![image](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petro-stoleru/)
   [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petyastoleru00@gmail.com)
 
-**Frontend Engineer** with a history of working in cyber security and human resource industries. Skilled in Angular, and have good knowledge of Vue.js. Specialized in front-end development but experienced also in UI/UX. Interested in learning new technologies and working with people.
+**Frontend Engineer** with a history of working in cyber security and human resource industries. Skilled in Angular, and have good knowledge of Vue.js. Specialized in front-end development but experienced also in UI/UX. Eager to explore new technologies and thrive in collaborative environments, enjoying working closely with teams and individuals alike.
 </div>
 
   ## Here are some of my statistics
@@ -23,17 +23,27 @@
 </div>
 
   ## Tech Stack
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=a6120d)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)
+![Vue](https://img.shields.io/badge/-Vue.js-000?logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=microsoftsqlserver&logoColor=%23CC2927)
+![RxJs](https://img.shields.io/badge/-RxJs-000?logo=reactivex&logoColor=df0e8d)
+![NgRx](https://img.shields.io/badge/-NgRx-000?logo=reactivex&logoColor=df0e8d)
+![NgXs](https://img.shields.io/badge/-NGXS-000?logo=reactivex&logoColor=df0e8d)
+
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwindcss&logoColor=06B6D4)
+![Material](https://img.shields.io/badge/-Angular%20Material-000?logo=material-design&logoColor=%23757575)
+
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+
+
