@@ -13,9 +13,6 @@
 <div>
     
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petyastoleru&theme=dracula&layout=compact)
-
-    
-  ![petyastoleru's github stats](https://github-readme-stats.vercel.app/api?username=petyastoleru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
   
   ![Streams](https://github-readme-streak-stats.herokuapp.com/?user=petyastoleru&theme=dracula)
 
